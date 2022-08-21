@@ -6,7 +6,7 @@ var link5 = 'ASIN2';
 var link6 = '-click2';
 var baru1 = '<div style="text-align:center;"><img src="http://ecx.images-amazon.com/images/I/';
 var baru2 = '_.jpg"/></center></div><br />';
-var baru3 = '<a href="https://channelmovie.info/" rel="nofollow" target="_blank">';
+var baru3 = '<a href="https://movielot.us/" rel="nofollow" target="_blank">';
 var baru4 = '<b>Check Latest Price</b></a>';
 var baru5 = '<a href="https://channelmovie.info/" rel="nofollow" target="_blank">';
 var baru6 = '<div style="text-align:center;"><img width="170" height="70" border="0" src="https://4.bp.blogspot.com/-BUgsmdtI9qw/UBDsSp787kI/AAAAAAAAAEs/57EfkJtHvRw/s1600/8fCpt.gif"/></center></a></div>';
