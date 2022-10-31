@@ -3,7 +3,7 @@ var link2 = ' in  picture1';
 var link3 = '_.jpg';
 var link4 = '-click1';
 var link5 = '-click2';
-var baru1 = '<a href="https://movielot.us/" rel="nofollow" target="_blank">';
+var baru1 = '<a href="https://movieright.us/" rel="nofollow" target="_blank">';
 var baru2 = '<img src="http://ecx.images-amazon.com/images/I/';
 var baru3 = '_.jpg"/></a><br />';
 var baru4 = '<b>Check Latest Price</b></a>';
